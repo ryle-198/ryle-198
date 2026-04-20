@@ -8,7 +8,7 @@
 # About Me
 <img align="right" src="https://github.com/user-attachments/assets/54480986-1b5c-4c18-aca6-956c1492375a"/>
 
-I’m a third-year ICT Application Development student at CPUT with a passion for software development. I aim to become proficient in multiple programming languages and build fully functional software applications, while expanding my knowledge across different areas of IT to support long-term growth, innovation, and career development.
+Im a third-year ICT Application Development student at CPUT with a passion for software development. I aim to become proficient in multiple programming languages and build fully functional software applications, while expanding my knowledge across different areas of IT to support long-term growth, innovation, and career development.
 
 ###
 
